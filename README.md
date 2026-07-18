@@ -15,6 +15,8 @@ A modern, optimized, and fully updated Flutter package for using Iconly Icons. T
 This package was modernised and is proudly maintained by **Mohammad Al-Hajjeeh** from Jordan 🇯🇴.
 
 * **GitHub:** [@mohammedhajieh](https://github.com/mohammedhajieh)
+* **LinkedIn:** [Mohammed Hajieh](https://www.linkedin.com/in/mohammed-hajieh/)
+* **Portfolio:** [mohammedhajieh.github.io/Portfolio](https://mohammedhajieh.github.io/Portfolio/)
 
 ---
 
