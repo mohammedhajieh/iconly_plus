@@ -1,6 +1,10 @@
 # Iconly Plus 🚀 🇯🇴
 
- <img src="https://raw.githubusercontent.com/mohammedhajieh/iconly_plus/main/assets/image/iconly_plus_white.svg" width="100%" alt="Iconly Plus Light"> | <img src="https://raw.githubusercontent.com/mohammedhajieh/iconly_plus/main/assets/image/iconly_plus_dark.svg" width="100%" alt="Iconly Plus Dark">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/image/iconly_plus_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/image/iconly_plus_white.svg">
+  <img alt="Iconly Plus Banner" src="assets/image/iconly_plus_dark.svg">
+</picture>
 
 A modern, optimized, and fully updated Flutter package for using Iconly Icons. This version is built to fully support newer Dart (3.0.0+) and Flutter versions, preventing strict `IconData` class conflicts.
 
