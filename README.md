@@ -1,8 +1,8 @@
 # Iconly Plus 🚀 🇯🇴
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/image/banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/image/banner_white.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/image/iconly_plus_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/image/iconly_plus_white.svg">
   <img alt="Iconly Plus Banner" src="assets/image/banner.svg">
 </picture>
 
