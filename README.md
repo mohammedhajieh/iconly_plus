@@ -10,7 +10,7 @@ A modern, optimized, and fully updated Flutter package for using Iconly Icons. T
 
 ---
 
-## 🇯🇴 Developed & Maintained By / تطوير وإشراف
+## 🇯🇴 Developed & Maintained By
 
 This package was modernised and is proudly maintained by **Mohammad Al-Hajjeeh** from Jordan 🇯🇴.
 
@@ -18,7 +18,7 @@ This package was modernised and is proudly maintained by **Mohammad Al-Hajjeeh**
 
 ---
 
-## 💻 Installation / التثبيت
+## 💻 Installation
 
 Add `iconly_plus` to your `pubspec.yaml` file:
 
