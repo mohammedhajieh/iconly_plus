@@ -1,0 +1,28 @@
+name: iconly_plus
+description: A modified version of Iconly pack to support newer Dart and Flutter version updates.
+version: 1.0.0
+repository: https://github.com/mohammedhajieh/iconly_plus
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: IconlyBold
+      fonts:
+        - asset: fonts/IconlyBold.ttf
+    - family: IconlyBroken
+      fonts:
+        - asset: fonts/IconlyBroken.ttf
+    - family: IconlyLight
+      fonts:
+        - asset: fonts/IconlyLight.ttf

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="100%" height="100%">
+  <!-- الخلفية البيضاء النقية مع حدود خفيفة جداً -->
+  <rect width="800" height="350" rx="16" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  
+  <!-- تأثير إضاءة ناعم جداً خلف الشعار -->
+  <circle cx="400" cy="175" r="150" fill="#0077b6" opacity="0.03" filter="blur(30px)"/>
+  
+  <g transform="translate(150, 110)">
+    <!-- شعار فلاتر المطور (الأزرق المتدرج) -->
+    <g transform="translate(0, 15) scale(0.9)">
+      <path d="M59.3 0L39.5 19.8l19.8 19.8H39.5L19.8 19.8 39.5 0z" fill="#00b4d8"/>
+      <path d="M59.3 39.6L39.5 59.4H19.8l19.8-19.8z" fill="#0077b6"/>
+      <path d="M39.5 59.4L19.8 79.2 0 59.4h19.8z" fill="#03045e"/>
+    </g>
+    
+    <!-- علامة الزائد (+) باللون الرمادي المتناسق -->
+    <text x="90" y="70" font-family="Segoe UI, sans-serif" font-size="42" font-weight="300" fill="#57606a">+</text>
+    
+    <!-- كلمة Iconly باللون الداكن الفخم ليكون واضحاً على الخلفية البيضاء -->
+    <text x="140" y="75" font-family="Segoe UI, system-ui, sans-serif" font-size="68" font-weight="800" fill="#24292f" letter-spacing="1">Iconly</text>
+    
+    <!-- كلمة Plus باللون الأزرق المضيء والملفت -->
+    <text x="355" y="75" font-family="Segoe UI, system-ui, sans-serif" font-size="68" font-weight="800" fill="#0077b6" letter-spacing="1">Plus</text>
+    
+    <!-- خط سفلي أنيق ونحيف -->
+    <rect x="140" y="95" width="310" height="4" rx="2" fill="#0077b6" opacity="0.8"/>
+  </g>
+  
+  <!-- نص فرعي يوضح التحديث -->
+  <text x="400" y="270" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" font-weight="500" fill="#57606a" letter-spacing="2">UPDATED FOR DART 3 &amp; FLUTTER</text>
+</svg>
