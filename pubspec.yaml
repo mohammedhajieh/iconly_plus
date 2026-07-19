@@ -1,6 +1,6 @@
 name: iconly_plus
 description: A modified version of Iconly pack to support newer Dart and Flutter version updates.
-version: 1.0.3
+version: 1.0.4
 repository: https://github.com/mohammedhajieh/iconly_plus
 
 environment:
