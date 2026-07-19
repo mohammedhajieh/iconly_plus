@@ -1,3 +1,7 @@
+## 1.0.6
+
+* Bug fixes and performance improvements.
+
 ## 1.0.5
 
 * Bug fixes and performance improvements.

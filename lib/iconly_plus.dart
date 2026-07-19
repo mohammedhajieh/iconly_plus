@@ -1,3 +1,5 @@
+/// A Flutter icon pack library providing customizable Iconly icons
+/// in Bold, Broken, and Light styles.
 library iconly;
 
 export 'src/iconly_bold.dart';
