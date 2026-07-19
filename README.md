@@ -22,4 +22,4 @@ Add `iconly_plus` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  iconly_plus: ^1.0.2
+  iconly_plus: ^1.0.3
